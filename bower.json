@@ -1,0 +1,28 @@
+{
+  "name": "bdotnet-gruntjs-demo",
+  "description": "Demo app for bower and grunt",
+  "main": "",
+  "authors": [
+    "Swaminathan Vetri"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "grunt",
+    "bower",
+    "npm"
+  ],
+  "homepage": "https://github.com/bdotnet/bdotnet-gruntjs-demo",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
