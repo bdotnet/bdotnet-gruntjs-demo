@@ -8,6 +8,6 @@ This application is created to demonstrate the basics of Bower and Grunt in B.Ne
  
     npm install
     
-    bower install
+    grunt build
     
     grunt serve
