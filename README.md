@@ -6,6 +6,8 @@ This application is created to demonstrate the basics of Bower and Grunt in B.Ne
 * Navigate to the cloned/extracted location
 * Run the following commands    
  
+    npm install -g bower grunt-cli 
+      
     npm install
     
     grunt build
